@@ -7,6 +7,5 @@ public class HelloWorld {
 		
 		System.out.println("222222222222");
 		
-		System.out.println("4444444444444");
 	}
 }
